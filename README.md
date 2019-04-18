@@ -9,4 +9,4 @@ mnist.load_data() download dataset<br/>
 training dataset: 60,000 images<br/>
 test dataset: 10,000 images<br/>
 # Technique
-using CNN(convolutional neural network)
+using CNN(Convolutional Neural Network)
